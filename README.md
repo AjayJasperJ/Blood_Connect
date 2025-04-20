@@ -1,2 +1,3 @@
 # Blood_Connect
-Flutter Blood Donation app with enabled real-time alert notification &amp; instant donation with selected donor with specific donation intervals
+
+Users register with their blood group, health details, and location to build a trusted donor network. The app sends emergency alert notifications to nearby eligible donors. It ensures donor safety by enforcing a strict interval between donations and checking health history. The goal is to make blood donation faster, safer, and more accessible in critical moments.
